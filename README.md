@@ -1,0 +1,2 @@
+# greek-news-trust
+A small webpage to show which Greek news channel should you (not) trust
